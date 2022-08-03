@@ -1,4 +1,6 @@
 var axios = require('axios');
+var mongoose = require('mongoose')
+
 var data = JSON.stringify({
     "collection": "APRENDICES",
     "database": "FakeStore",
