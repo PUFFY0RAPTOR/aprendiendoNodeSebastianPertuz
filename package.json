@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/PUFFY0RAPTOR/aprendiendoNodeSebastianPertuz#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "express": "^4.18.1",
     "mongodb": "^4.8.1",
     "mongoose": "^6.5.0"
